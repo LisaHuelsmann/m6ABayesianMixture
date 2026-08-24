@@ -1,6 +1,6 @@
 # m6A Bayesian Mixture model
 
-By Lisa Hülsmann for *Höhn and Pittroff et al.*
+By Lisa Hülsmann for *Höhn and Pittroff et al. "The stability of m6A-marked transcripts is linked to cell identity in planarians"* in Nucleic Acids Research.
 
 This repository contains the code to prepare the data and fit the Bayesian mixture model for the effect of m6A position on differential gene expression upon m6A loss.
 
