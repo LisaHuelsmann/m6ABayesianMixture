@@ -2,7 +2,7 @@
 
 DOI: 10.5281/zenodo.22082928
 
-By Lisa Hülsmann for *Höhn and Pittroff et al. "The stability of m6A-marked transcripts is linked to cell identity in planarians"* in Nucleic Acids Research.
+By Lisa Hülsmann for *Höhn and Pittroff et al. "The stability of m6A-marked transcripts is linked to cell identity in planarians"* in Nucleic Acids Research. https://doi.org/10.1093/nar/gkag892
 
 This repository contains the code to prepare the data and fit the Bayesian mixture model for the effect of m6A position on differential gene expression upon m6A loss.
 
